@@ -20,7 +20,7 @@ To build and run this project, you will need the following:
 
 To get started with this project, follow these steps:
 
-- Clone this repository to your local machine by running ```git clone https://github.com/notmilanxd/guessing-game.git``` in your terminal.
+- Clone this repository to your local machine by running ```git clone https://github.com/notmilanxd/guessing_game.git``` in your terminal.
 - Navigate to the project directory by running cd guessing_game.
 - Build the project by running cargo build. This will download and compile the dependencies and create an executable file in the target/debug directory.
 - Run the project by running cargo run or navigate to the executable on Linux and MacOS with ```./target/debug/guessing_game``` OR on Windows with ```.\target\debug\guessing_game.exe``` 
