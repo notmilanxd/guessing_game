@@ -10,7 +10,7 @@ So there is this tutorial about a [Guessing game](https://doc.rust-lang.org/book
 
 To build and run this project, you will need the following:
 
-**Rust:** You can install Rust using rustup, the official Rust toolchain installer. Follow the instructions on the [rustup website](https://www.rust-lang.org/tools/install) to download and install Rust for your platform. 
+**Rust:** You can install Rust using rustup, the official Rust toolchain installer. Follow the instructions on the [Rust website](https://www.rust-lang.org/tools/install) to download and install Rust for your platform. 
 
 **Cargo:** Cargo comes installed with Rust if you use rustup. You can check if you have Cargo by running ```cargo --version``` in your terminal. If you see a version number, you have it! If you see an error, such as command not found, look at the documentation for your method of installation to determine how to install Cargo separately.
 
