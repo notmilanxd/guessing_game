@@ -10,17 +10,17 @@ So there is this tutorial about a [Guessing game](https://doc.rust-lang.org/book
 
 To build and run this project, you will need the following:
 
-**Rust:** You can install Rust using rustup, the official Rust toolchain installer. Follow the instructions on the rustup website to download and install Rust for your platform. You can also check the installation chapter of the Rust book for more details.
+**Rust:** You can install Rust using rustup, the official Rust toolchain installer. Follow the instructions on the [rustup website](https://www.rust-lang.org/tools/install) to download and install Rust for your platform. 
 
-**Cargo:** Cargo comes installed with Rust if you use rustup. You can check if you have Cargo by running cargo --version in your terminal. If you see a version number, you have it! If you see an error, such as command not found, look at the documentation for your method of installation to determine how to install Cargo separately.
+**Cargo:** Cargo comes installed with Rust if you use rustup. You can check if you have Cargo by running ```cargo --version``` in your terminal. If you see a version number, you have it! If you see an error, such as command not found, look at the documentation for your method of installation to determine how to install Cargo separately.
 
-**Git:** You will need Git to clone this repository from Github. You can download and install Git from the official website.
+**Git:** You will need Git to clone this repository from Github. You can download and install [Git](https://git-scm.com/) from the official website.
 
 ### Getting Started
 
 To get started with this project, follow these steps:
 
-- Clone this repository to your local machine by running git clone https://github.com/your-username/rust-cargo-project-tutorial.git in your terminal.
+- Clone this repository to your local machine by running ```git clone https://github.com/notmilanxd/guessing-game.git``` in your terminal.
 - Navigate to the project directory by running cd guessing_game.
 - Build the project by running cargo build. This will download and compile the dependencies and create an executable file in the target/debug directory.
 - Run the project by running cargo run or navigate to the executable on Linux and MacOS with ```./target/debug/guessing_game``` OR on Windows with ```.\target\debug\guessing_game.exe``` 
