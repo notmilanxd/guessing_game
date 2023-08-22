@@ -6,7 +6,7 @@ So there is this tutorial about a [Guessing game](https://doc.rust-lang.org/book
 ## How to build and open it (Windows, Linux, MacOS)
 *Disclaimer: I've written this tutorial with Bing AI (shoutout to him/her/them??) because I was lazy to actually think about something*
 
-# Prerequisites
+### Prerequisites
 
 To build and run this project, you will need the following:
 
@@ -14,7 +14,7 @@ To build and run this project, you will need the following:
 **Cargo:** Cargo comes installed with Rust if you use rustup. You can check if you have Cargo by running cargo --version in your terminal. If you see a version number, you have it! If you see an error, such as command not found, look at the documentation for your method of installation to determine how to install Cargo separately.
 **Git:** You will need Git to clone this repository from Github. You can download and install Git from the official website.
 
-# Getting Started
+### Getting Started
 
 To get started with this project, follow these steps:
 
@@ -23,6 +23,6 @@ To get started with this project, follow these steps:
 - Build the project by running cargo build. This will download and compile the dependencies and create an executable file in the target/debug directory.
 - Run the project by running cargo run or navigate to the executable on Linux and MacOS with ```./target/debug/guessing_game``` OR on Windows with ```.\target\debug\guessing_game.exe``` 
 
-# References
+### References
 
 1: https://rustup.rs/ 2: https://doc.rust-lang.org/book/ch01-01-installation.html 3: https://git-scm.com/
